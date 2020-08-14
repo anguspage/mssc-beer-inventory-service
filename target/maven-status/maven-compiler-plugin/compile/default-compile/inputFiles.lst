@@ -1,6 +1,5 @@
 /Users/jantonio/IdeaProjects/springframework.guru/courses/micro/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/mappers/DateMapper.java
 /Users/jantonio/IdeaProjects/springframework.guru/courses/micro/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/controllers/BeerInventoryController.java
-/Users/jantonio/IdeaProjects/springframework.guru/courses/micro/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/bootstrap/BeerInventoryBootstrap.java
 /Users/jantonio/IdeaProjects/springframework.guru/courses/micro/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/domain/BeerInventory.java
 /Users/jantonio/IdeaProjects/springframework.guru/courses/micro/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/domain/BaseEntity.java
 /Users/jantonio/IdeaProjects/springframework.guru/courses/micro/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/common/events/NewInventoryEvent.java
